@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: glocalmind/webspringboot:web0
+          image: glocalmind/webspringboot:web1
           ports:
             - containerPort: 8080
           env:
